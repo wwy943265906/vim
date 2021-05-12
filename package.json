@@ -1,0 +1,20 @@
+{
+  "name": "vim",
+  "version": "1.0.0",
+  "description": "vim个人仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwy943265906/vim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwy943265906/vim/issues"
+  },
+  "homepage": "https://github.com/wwy943265906/vim#readme"
+}
